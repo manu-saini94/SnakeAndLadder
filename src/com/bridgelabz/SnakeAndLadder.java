@@ -28,6 +28,8 @@ public class SnakeAndLadder {
 
     public static void main(String[] args) {
 
+        System.out.println("Added ladder to Snake and Ladder");
+
         int diceCount = 0;
         int playerChance = 0;
         while (player1Position < WIN_POSITION && player2Position< WIN_POSITION ) {
