@@ -34,6 +34,11 @@ public class SnakeAndLadder {
         System.out.println("Dev-1 modified ladder again");
 
         System.out.println("Dev-2 modified ladder again");
+
+        System.out.println("added Snake feature to snake and ladder");
+
+        System.out.println("Added more snake features to snake and ladder");
+        
         int diceCount = 0;
         int playerChance = 0;
         while (player1Position < WIN_POSITION && player2Position< WIN_POSITION ) {
