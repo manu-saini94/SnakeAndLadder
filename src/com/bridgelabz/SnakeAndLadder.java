@@ -28,7 +28,8 @@ public class SnakeAndLadder {
 
     public static void main(String[] args) {
 
-        System.out.println("Added ladder to Snake and Ladder");
+        System.out.println("Modified ladder of Snake and Ladder");
+        System.out.println("added new features to snake and ladder");
 
         int diceCount = 0;
         int playerChance = 0;
