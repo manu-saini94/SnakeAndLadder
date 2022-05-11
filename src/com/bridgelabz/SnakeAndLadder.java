@@ -37,7 +37,7 @@ public class SnakeAndLadder {
 
         System.out.println("added Snake feature to snake and ladder");
 
-        System.out.println("Added more snake features to snake and ladder ==>  This is random text by dev1");
+        System.out.println("Added more snake features to snake and ladder ==>  This is random text by dev2");
         
         int diceCount = 0;
         int playerChance = 0;
